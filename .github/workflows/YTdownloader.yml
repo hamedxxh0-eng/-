@@ -1,4 +1,4 @@
-name: 🎯 YouTube Downloader
+name: 🎯 دانلودر یوتیوب
 
 on:
   workflow_dispatch:
