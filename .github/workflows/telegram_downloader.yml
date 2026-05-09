@@ -1,4 +1,4 @@
-name: تلگرام دانلودر
+name: 📨 تلگرام دانلودر
 
 on:
   workflow_dispatch:
