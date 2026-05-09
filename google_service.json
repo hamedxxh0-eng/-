@@ -85,7 +85,7 @@
         }
       }
     ],
-    "remarks": "Kurdeus@Github Google Services 1",
+    "remarks": " کانفیگ اجرای سرویس های گوگل بدون مدیا ساپورت ( شامل یوتیوب )",
     "routing": {
       "domainStrategy": "IPIfNonMatch",
       "rules": [
