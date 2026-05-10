@@ -85,7 +85,7 @@
         }
       }
     ],
-    "remarks": " کانفیگ اجرای سرویس های گوگل بدون مدیا ساپورت ( شامل یوتیوب )",
+    "remarks": "re Hamed_Xxh re v 0.5",
     "routing": {
       "domainStrategy": "IPIfNonMatch",
       "rules": [
@@ -291,7 +291,7 @@
               "statsOutboundUplink": true
           }
       },
-      "remarks": "Kurdeus@Github Google Services 2",
+      "remarks": "hamed_Xxh re c2f34 client config v1.2",
       "routing": {
           "domainStrategy": "UseIP",
           "rules": [
